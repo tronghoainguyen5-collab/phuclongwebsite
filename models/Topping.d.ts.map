@@ -1,1 +1,0 @@
-{"version":3,"file":"Topping.d.ts","sourceRoot":"","sources":["../../src/models/Topping.ts"],"names":[],"mappings":"AAAA,qBAAa,OAAO;IACT,EAAE,EAAE,MAAM,GAAC,SAAS,CAAC;IACrB,IAAI,EAAE,MAAM,CAAC;IACb,KAAK,EAAE,MAAM,CAAC;gBAET,EAAE,EAAC,MAAM,GAAC,SAAS,EAAE,IAAI,EAAC,MAAM,EAAE,KAAK,EAAC,MAAM;CAK7D"}
