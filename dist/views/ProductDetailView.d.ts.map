@@ -1,0 +1,1 @@
+{"version":3,"file":"ProductDetailView.d.ts","sourceRoot":"","sources":["../../src/views/ProductDetailView.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,OAAO,EAAE,MAAM,mBAAmB,CAAC;AACjD,OAAO,KAAK,EAAE,OAAO,EAAE,MAAM,mBAAmB,CAAC;AAEjD,qBAAa,iBAAiB;IAC5B,MAAM,CAAC,OAAO,EAAE,OAAO,EAAE,QAAQ,EAAE,OAAO,EAAE,GAAG,MAAM;CA4EtD"}
